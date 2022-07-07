@@ -1,6 +1,6 @@
 # portfolio-website
 
-/*https://gaurbprajapati.github.io/portfolio-website/*/
+
 
 ![](Screenshot%20(270).png)
 ![](Screenshot%20(271).png)
